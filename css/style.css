@@ -4,3 +4,14 @@ body {
     box-sizing: border-box;
     background-color: rgb(235, 224, 239);
 }
+header {
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(198, 160, 234);
+    padding: 20px;
+}
+
+#Header-Text {
+    font-size: 50px;
+    margin: 0;
+}
